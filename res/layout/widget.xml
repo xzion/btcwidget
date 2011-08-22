@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/LinearLayout01"
-    android:layout_height="319dp"
-    android:layout_width="312dp"
+    android:layout_height="580px"
+    android:layout_width="470px"
     android:background="@drawable/myshape"
     android:orientation="horizontal"
     >
     
 <TextView  
 	android:id="@+id/widget_textview"
-    android:layout_width="312dp" 
-    android:layout_height="319dp" 
+    android:layout_height="580px" 
+    android:layout_width="470px" 
     android:paddingLeft="4dp"
     android:textColor="@android:color/white"
     android:text="Loading: Please Wait."
-    android:textSize="10pt"
+    android:textSize="8pt"
     />
     
     
